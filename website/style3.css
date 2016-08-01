@@ -1,0 +1,55 @@
+header{
+  text-align: center;
+}
+body{
+  background: black;
+  background-size: cover;
+  background-position: center;
+}
+button{
+  text-align: center;
+  color: maroon;
+  margin: auto;
+  border: 0;
+  background: black;
+  font-family: 'Russo One';
+  font-size: 40px;
+}
+h3{
+  text-align: center;
+  color: black;
+  font-family: 'Russo One';
+  font-size: 70px;
+}
+h1{
+  text-align: center;
+  color: lightGrey;
+  background-color: red;
+  font-family: 'Russo One';
+  font-size: 60px;
+  margin: 0;
+}
+h2{
+  text-align: center;
+  color: black;
+  font-family: 'Russo One';
+  font-size: 70px;
+}
+p {
+  font-size: 22px;
+}
+input {
+  text-align: center;
+  color: maroon;
+  margin: auto;
+  border: 0;
+  background: black;
+  font-family: 'Russo One';
+  font-size: 80px;
+}
+input:hover{
+  color: rgba(139,0,0, 0.7);
+}
+input[type="submit"] {
+  background: red;
+  color: white;
