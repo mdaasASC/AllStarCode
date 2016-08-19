@@ -1,0 +1,126 @@
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+html{
+  background: url("sky.gif") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+header{
+  text-align: center;
+}
+li{
+  list-style-type: none;
+}
+body{
+
+  background-size: cover;
+  background-position: center;
+}
+h3{
+  text-align: center;
+  color: lightBlue;
+  font-family: 'Mystery Quest', cursive;
+  font-size: 70px;
+  border: 0;
+  margin: 5;
+  padding: 0;
+}
+h1{
+  text-align: center;
+  color: transparent;
+  font-family: 'Mystery Quest', cursive;
+  font-size: 50px;
+}
+h2{
+  text-align: center;
+  color: transparent;
+  font-family: 'Mystery Quest', cursive;
+  font-size: 120px;
+}
+p {
+  font-size: 22px;
+}
+input {
+  text-align: center;
+  color: transparent;
+  margin: auto;
+  border: 0;
+  background: transparent;
+  font-family: 'Mystery Quest', cursive;
+  font-size: 20px;
+}
+input:hover{
+  color: rgba(0,0,0,0);
+}
+input[type="submit"] {
+  background: red;
+  color: white;
+}
+.hi{
+  color: pink;
+  background: transparent;
+  font-size: 35px;
+  padding: 0;
+  border: none;
+  font-family: 'Mystery Quest', cursive;
+}
+.ye{
+  text-align: center;
+  color: transparent;
+  margin: auto;
+  border: 0;
+  background: transparent;
+  font-family: 'Mystery Quest', cursive;
+  font-size: 20px;
+}
+.ye:hover{
+    color: rgba(0,0,0,0);
+}
+.pop{
+  background: black;
+  color: white;
+  padding: 10px;
+  font-family: 'Russo One';
+}
+.div{
+  background: black;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  margin-left: 25%;
+}
+.classy{
+  color: white;
+  font-family: 'Playfair Display SC';
+  text-align: left;
+  margin: 10%;
+  font-size: 17px;
+  background: black;
+}
+.psych{
+  color: purple;
+  font-family: 'Mystery Quest', cursive;
+  text-align: left;
+  margin: 10%;
+  font-size: 17px;
+  background: black;
+}
+.future{
+  color: white;
+  font-family: 'Nova Square', cursive;
+  text-align: left;
+  margin: 10%;
+  font-size: 17px;
+  background: black;
+}
+h4{
+  color:white;
+}
+.butTheme{
+  background: black;
+}
